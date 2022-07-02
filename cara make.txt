@@ -1,6 +1,0 @@
-1. buat databases dengan nama  
-   "tugas_semester2"
-2. import file tugas_semester2.sql
-3. register terlebi dahulu dengan gmail yang tersangkut di laptop yang menyimpan kodingan ini
-   dikarenakan ada aktivasi akun yang dikirim ke gmail
-4. lalu login
